@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="selfp-freud" size="1.000000 1.016518" />
+    <ImageTarget name="strawb-freud" size="1.000000 0.824219" />
+    <ImageTarget name="memory-dali" size="1.000000 0.760156" />
+    <ImageTarget name="lemons-lichtenstein" size="1.000000 0.797448" />
+    <ImageTarget name="girl-lichtenstein" size="1.000000 1.010020" />
+    <ImageTarget name="selfp-picasso" size="1.000000 1.271144" />
+    <ImageTarget name="selfp-dali" size="1.000000 1.678125" />
+    <ImageTarget name="rooster-picasso" size="1.000000 1.403871" />
+    <ImageTarget name="bedroom-vangogh" size="1.000000 0.805665" />
+    <ImageTarget name="bandage-vangogh" size="1.000000 1.240695" />
+  </Tracking>
+</QCARConfig>
